@@ -1,0 +1,13 @@
+input.ng-touched.ng-invalid {
+  border: 1px solid red;
+}
+
+.signup-img {
+  display: none;
+}
+
+@media (min-width: 786px) {
+  .signup-img {
+    display: block;
+  }
+}
